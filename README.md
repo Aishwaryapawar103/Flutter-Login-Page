@@ -1,6 +1,6 @@
 # flutter_login_page
 
-A Flutter project.
+A Flutter Project.
 
 ## Design
 
